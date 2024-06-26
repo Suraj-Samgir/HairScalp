@@ -1,6 +1,16 @@
-# Hair and Scalp Disease Detection System using CNN with Appointment Booking Portal.
+# Title : Hair and Scalp Disease Detection System using CNN with Appointment Booking Portal.
 
-To run the project follow the below given steps:<br><br>
+## Description :
+
+
+
+## Technologies Used :
+
+- Flask (Web Application - Backend)
+- Convolutional Neural Network (CNN)
+- Bootstrap, HTML, CSS, JS (Web Application - Frontend)
+
+## To run the project follow the below given steps:<br><br>
 
 1. Crate a python virtual environment (env).
 2. Activate the environment (./env/Scripts/activate.ps1)
