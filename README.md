@@ -10,7 +10,7 @@ In recent years, there has been a notable advancement in the integration of heal
 - Convolutional Neural Network (CNN)
 - Bootstrap, HTML, CSS, JS (Web Application - Frontend)
 
-## To run the project follow the below given steps:<br><br>
+## To run the project follow the below given steps :
 
 1. Crate a python virtual environment (env).
 2. Activate the environment (./env/Scripts/activate.ps1)
